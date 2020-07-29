@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Coding",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Não tão bom quanto o Netflix",
+          "url": "https://www.youtube.com/watch?v=Y-PC1C7m7HM"
+        },
+        {
+          "titulo": "Clean Code",
+          "url": "https://www.youtube.com/watch?v=ln6t3uyTveQ"
+        },
+        {
+          "titulo": "Inteligência Artificial",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "Criando um app",
+          "url": "https://www.youtube.com/watch?v=tbLziJchz48"
+        },
+        {
+          "titulo": "Por onde começar",
+          "url": "https://www.youtube.com/watch?v=Hxk3XmK_WU4"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "IA",
+          "url": "https://www.youtube.com/watch?v=NZlIYr1slAk"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "TED",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Felicidade é aqui e agora",
+          "url": "https://www.youtube.com/watch?v=HsQx02JdZ2Q"
+        },
+        {
+          "titulo": "What makes a good life",
+          "url": "https://www.youtube.com/watch?v=8KkKuTCFvzI"
+        },
+        {
+          "titulo": "Sentido da vida",
+          "url": "https://www.youtube.com/watch?v=vC0aA9hgHwI"
+        },
+        {
+          "titulo": "Ciência Brasileira",
+          "url": "https://www.youtube.com/watch?v=F3kUeDlP3Io"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#4682B4",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "The Lord of The Ring",
+          "url": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+        },
+        {
+          "titulo": "Pineapple Express",
+          "url": "https://www.youtube.com/watch?v=nPlnjlhd-ME"
+        },
+        {
+          "titulo": "Reservoir Dogs",
+          "url": "https://www.youtube.com/watch?v=vayksn4Y93A"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "The Elder Scroll V: Skyrim",
+          "url": "https://www.youtube.com/watch?v=JSRtYpNRoN0"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "FIFA 21",
+          "url": "https://www.youtube.com/watch?v=affGlInlThk"
+        },
+        {
+          "titulo": "Red Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=iqaipBpnVRE"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "The Strokes",
+          "url": "https://www.youtube.com/watch?v=2KSpDNlsVF4"
+        },
+        {
+          "titulo": "Fkj & Masego",
+          "url": "https://www.youtube.com/watch?v=hC8CH0Z3L54"
+        },
+        {
+          "titulo": "Mike Love",
+          "url": "https://www.youtube.com/watch?v=fU7hZ3smj0g"
+        },
+        {
+          "titulo": "The Rolling Stones",
+          "url": "https://www.youtube.com/watch?v=RbmS3tQJ7Os"
+        },
+        {
+          "titulo": "Sticky Fingers",
+          "url": "https://www.youtube.com/watch?v=MEiMnOr0-nM"
+        }
+      ]
+    }
+  ]
+}
